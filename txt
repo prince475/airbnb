@@ -1,0 +1,24 @@
+ <Card
+        img={katie}
+        rating="5.0"
+        reviewCount={6}
+        country="USA"
+        title="life lessons with katie zaferes"
+        price={136}
+      />
+      <Card
+        img={katie}
+        rating="5.0"
+        reviewCount={6}
+        country="USA"
+        title="life lessons with katie zaferes"
+        price={136}
+      />
+      <Card
+        img={katie}
+        rating="5.0"
+        reviewCount={6}
+        country="USA"
+        title="life lessons with katie zaferes"
+        price={136}
+      />
